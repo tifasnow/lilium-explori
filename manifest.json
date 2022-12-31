@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Lilium Explori",
-  "version": "8.4",
+  "version": "8.4.2",
   "author": "",
   "files": [
     {
@@ -1452,11 +1452,6 @@
     {
       "projectID": 629153,
       "fileID": 4126526,
-      "required": true
-    },
-    {
-      "projectID": 621437,
-      "fileID": 3966148,
       "required": true
     },
     {

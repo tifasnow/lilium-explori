@@ -1,0 +1,8 @@
+
+#https://www.w3schools.com/colors/colors_hexadecimal.asp
+["Block Highlight Colours"]
+	#Hexadecimal value of colour for highlight of breakable blocks.  Default: #00FF00
+	colorBreakable = "#00FF00"
+	#Hexadecimal value of colour for highlight of non-breakable blocks  Default: #990501
+	colorNonBreakable = "#990501"
+
