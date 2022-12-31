@@ -1,0 +1,10 @@
+
+#TNT Settings
+[Offsets]
+	#Y offset of floating islands
+	#Range: 20 ~ 160
+	islandHeight = 50
+	#
+	#Range: 60 ~ 400
+	dropHeight = 200
+
