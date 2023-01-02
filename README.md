@@ -2,6 +2,8 @@
 
 A Minecraft Modpack (Forge 1.19.2)
 
+[![CurseForge Downloads](https://cf.way2muchnoise.eu/775547.svg) ![CurseForge Ver](https://cf.way2muchnoise.eu/versions/For%20MC_775547_all.svg)](https://www.curseforge.com/minecraft/modpacks/lilium-explori)
+
 ## Mods List
 
 *   [Better Than Llamas (by ohaiiChun)](https://www.curseforge.com/minecraft/mc-mods/better-than-llamas)
